@@ -65,4 +65,11 @@ This will remove all maps in storage, and a startup map will be placed instead. 
 This Jtool need the  extension [non_sandboxed_filesystem](https://github.com/YAL-GameMaker/non_sandboxed_filesystem) to work.
 
 **Note that according to license of the extension, all files related to non_sandboxed_filesystem is intentionally removed from the repository.**
+
 **If you want to use this tool, get the extension from the link and import it to the project.**
+
+**The release may have exposed some of the content from the extension, but any usage of that shall follow the license from the link above, you take your own risk to use the resources.**
+
+## FAQ about the project
+ - To run the project, first you need to go to mainInit() and change global.editor_project_path to any absolute path.
+ - To export the tool, change global.editor_project_path as `filename_dir(parameter_string(0)) + "\"; ` and export as .zip
