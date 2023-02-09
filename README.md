@@ -1,8 +1,11 @@
 # Staged-Jtool
 
+![This is an image](https://media.discordapp.net/attachments/564427359105843220/1073282111114588160/image.png)
+The tool could be downloaded [here](https://github.com/cloakmann/Staged-Jtool/releases/tag/v0.13).
+
 This tool aims to allow users to make a stage of multiple maps of Jtool needle with all resources needed with great efficiency, which will make handling needle collabs much easier.
 
-##Basic Usage
+## Basic Usage
  - unzip the release file and run source.exe to use the tool
  - Press **PageUp** or **PageDown** to switch skins to display
  - Press **K** instead of **F** to change room speed
